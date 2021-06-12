@@ -2,10 +2,12 @@
 
 .counter div{
    display: inline-block;
-   font-size: 30px;
+   font-size: 100px;
    background: black;
-   color: whitesmoke
-}
+   color: whitesmoke;
+   text-align:center;
+   
+    }
 
 .clock {
   position:relative;
